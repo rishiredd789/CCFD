@@ -1,0 +1,13 @@
+{
+  "sys": {
+    "type": "Error",
+    "id": "ParameterNotAllowed",
+    "details": {
+      "parameters": [
+        "amp%3Bq",
+        "amp%3Bw",
+        "amp%3Bh"
+      ]
+    }
+  }
+}
